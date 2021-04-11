@@ -1,0 +1,5 @@
+
+实验室围绕无人系统集群协作中的位置感知问题设计无线通信协议。通过分析无人系统集群具有密集程度高、动态性强、单体感知能力弱三大特点，设计基于超宽频无线通信技术的集群测距协议，具有简单高效、灵活鲁棒、可扩展可支撑等特点。实验室在Crazyflie 2.1型号无人机上编程实现STM32微处理版本该协议，并进行一系列实验。实验显示在超过9架的情况下，该协议任然保持良好的效果。研究工作已经被CCF推荐A类会议INFOCOM2021录用。
+
+[1] Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu, "Ultra-Wideband Swarm Ranging," IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021.
+

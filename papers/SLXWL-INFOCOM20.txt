@@ -1,0 +1,6 @@
+
+实验室围绕无人机能耗优化开展算法设计研究工作。实验室通过真实飞行中实时能耗测试结果，总结出飞行能耗与飞行速度成凸函数关系的重要规律。基于此规律，实验室为带有时间和空间约束的无线传感器数据采集设计无人机飞行规划方案。该方案可以在提前已知传感器数据量和各约束的前提下，计算得到最优解；在不提前已知的情况下，实现解决接近最优解的在线算法。实现高能效无人机飞行规划。研究工作发表在CCF推荐A类会议INFOCOM2020上。
+
+[1] Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li, "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model," IEEE INFOCOM 2020, Virtual Conference, July 6-9, 2020.
+
+

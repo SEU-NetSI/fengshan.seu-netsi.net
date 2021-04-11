@@ -1,0 +1,4 @@
+动态环境下无线数据传输中，需要设计算法，优化无线传输能耗。目前，数以万计的无线物联网设备以各种各样的应用目的来部署。多数设备首先采集数据，然后再根据应用需求对数据进行某种程度上的处理。本论文假设边缘计算的场景，即，数据的处理可以在物联网设备本地进行，也可以在边缘计算节点进行。如果一个任务要被计算卸载，那么一个挑战性的问题是物联网设备采集的数据也必须上传到边缘节点，这可能带来额外的延时和能耗。本文提出一个两阶段的方法来最小化物联网设备的能耗并满足任务的延时约束。该方法首先研究计算卸载决策问题其核心是决定哪些任务要下载计算代码在本地计算，哪些任务要上传数据在边缘计算。其次，本论文研究了传输功率调度问题，以便进一步降低卸载计算带来的能量开销，并满足任务的延时约束。一个启发式的决策算法被设计出来解决第一个问题，同时，一个最优算法被设计出来解决第二个问题。详实具体的实验研究表明，该两步骤的策略与联合考虑的最优解效果接近。相关研究成果正式发布在IEEE Internet of Things Journal（中科院JCR一区期刊）2019年第6期上。
+
+Feng Shan, Junzhou Luo, Jiahui Jin and Weiwei Wu, "Offloading Delay Constrained Transparent Computing Tasks With Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment", IEEE Internet of Things Journal (IOTJ), 2019, 6(3):4411-4422
+
