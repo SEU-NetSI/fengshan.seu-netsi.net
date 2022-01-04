@@ -3,3 +3,9 @@
 
 [1] Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu, "Ultra-Wideband Swarm Ranging," IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021.
 
+
+
+随着电子技术发展，空中和地面机器人、可穿戴和便携式设备正在变得更小、更轻、更便宜，从而得到广泛使用。现在可以利用数以万计的这些设备组成一个群体来完成复杂的协作任务，例如搜索、救援、测绘和战斗。一个群体通常包含大量机器人或设备，它们彼此之间的距离很近，并且可能会动态移动。因此本项目研究动态密集的群体。超宽频 (UWB) 技术是联网和定位的基本技术，因为该技术对时间非常敏感，可以使用发送和接收数据包的时间戳计算准确的距离。本文设计了一个超宽频集群测距协议，其主要特点是：简单而高效、自适应和健壮、可扩展和支持。这个集群测距协议在Crazyflie 2.1无人机(STM32微控制器驱动的空中机器人，具有板载超宽频无线收发器芯片DW1000)上开发、实现。我们进行了广泛的现实世界实验，实验显示在超过9架的情况下，该协议任然保持良好的效果。研究工作已经被CCF推荐A类会议INFOCOM2021录用。
+
+[1] Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu, "Ultra-Wideband Swarm Ranging," IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021.
+
